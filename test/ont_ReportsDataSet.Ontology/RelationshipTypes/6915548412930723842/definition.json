@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915548412930723842",
+  "name": "Leads_has_Lead_Source",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "188628410022376"
+  },
+  "target": {
+    "entityTypeId": "4359494726862"
+  }
+}

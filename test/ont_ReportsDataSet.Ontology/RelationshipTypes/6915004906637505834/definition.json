@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915004906637505834",
+  "name": "Business_Plan_has_Branches",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "266326974980571"
+  },
+  "target": {
+    "entityTypeId": "241948132117320"
+  }
+}

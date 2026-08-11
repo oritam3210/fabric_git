@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/entityType/1.0.0/schema.json",
+  "id": "46054207905739",
+  "namespace": "usertypes",
+  "baseEntityTypeId": null,
+  "name": "BusinessPlanMeasures",
+  "entityIdParts": [],
+  "displayNamePropertyId": null,
+  "namespaceType": "Imported",
+  "visibility": "Visible",
+  "properties": [],
+  "timeseriesProperties": [],
+  "untypedProperties": []
+}

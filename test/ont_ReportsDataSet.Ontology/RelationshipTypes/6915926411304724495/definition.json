@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915926411304724495",
+  "name": "Branches_Summarized_BP_DA_has_DatesSummarize",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "28867050994112"
+  },
+  "target": {
+    "entityTypeId": "100565726700415"
+  }
+}

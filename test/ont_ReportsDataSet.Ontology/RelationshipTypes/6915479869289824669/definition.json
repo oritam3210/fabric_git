@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915479869289824669",
+  "name": "Proposals_has_Projects",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "106891270997015"
+  },
+  "target": {
+    "entityTypeId": "64230354949815"
+  }
+}

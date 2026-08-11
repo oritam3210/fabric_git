@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915996444926832370",
+  "name": "Branches_Summarized_has_Branch_Group-peer",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "240130696656053"
+  },
+  "target": {
+    "entityTypeId": "257988667493763"
+  }
+}

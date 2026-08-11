@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915615839403747702",
+  "name": "Dates_Period_has_Dates",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "45807749206498"
+  },
+  "target": {
+    "entityTypeId": "143114327630608"
+  }
+}

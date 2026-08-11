@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915783733433801498",
+  "name": "Users_Roles_has_Branches",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "82114532768471"
+  },
+  "target": {
+    "entityTypeId": "241948132117320"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915684534722963363",
+  "name": "MRR_qvinci_Aging_Peer_has_Branches_Peer",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "240338999547857"
+  },
+  "target": {
+    "entityTypeId": "205944036561299"
+  }
+}

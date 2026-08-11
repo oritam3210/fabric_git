@@ -1,0 +1,1758 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/entityType/1.0.0/schema.json",
+  "id": "162116612416104",
+  "namespace": "usertypes",
+  "baseEntityTypeId": null,
+  "name": "Measure",
+  "entityIdParts": [],
+  "displayNamePropertyId": null,
+  "namespaceType": "Imported",
+  "visibility": "Visible",
+  "properties": [
+    {
+      "id": "6913856925324238690",
+      "name": "First_Appt",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913856970703595980",
+      "name": "Total_Appts",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857013651764044",
+      "name": "First_Proposal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857061169950882",
+      "name": "Jobs_Landed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857103703778043",
+      "name": "Sales_Landed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857151685292070",
+      "name": "Jobs_Installed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857198456169253",
+      "name": "Sales_Installed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857242984916614",
+      "name": "Average_Sale",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857293927052449",
+      "name": "Close_Rate_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857335795888998",
+      "name": "Leads",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857356809092552",
+      "name": "Slippage_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857405107734592",
+      "name": "Gross_Margin_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857448653655828",
+      "name": "Cumulative_Leads",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857493094954165",
+      "name": "Leads_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857535832314343",
+      "name": "First_Proposal_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857586317779036",
+      "name": "Jobs_Landed_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857626648938719",
+      "name": "Sales_Landed_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857673406009655",
+      "name": "Sales_Installed_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857717478699880",
+      "name": "Average_Sale_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857765805756928",
+      "name": "Slippage_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857810842772082",
+      "name": "Gross_Margin_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857859278267726",
+      "name": "Close_Rate_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857901459051389",
+      "name": "Leads_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913857949330442561",
+      "name": "Leads_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913857990528509281",
+      "name": "First_Proposal_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913858039316053374",
+      "name": "Average_Sale_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858083622873129",
+      "name": "Jobs_Landed_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913858129573607519",
+      "name": "Sales_Landed_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858178986975458",
+      "name": "Sales_Installed_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858218001808520",
+      "name": "Slippage_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858266786842526",
+      "name": "Close_Rate_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858313058005967",
+      "name": "Gross_Margin_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858356824753638",
+      "name": "First_Proposal_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858404419237469",
+      "name": "Jobs_Landed_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858447109505094",
+      "name": "Sales_Landed_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858495802778632",
+      "name": "Sales_Installed_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858541984494400",
+      "name": "Average_Sale_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858587027471384",
+      "name": "Slippage_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858633694262915",
+      "name": "Close_Rate_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858673820193225",
+      "name": "Gross_Margin_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858721932887815",
+      "name": "Current",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913858745706732713",
+      "name": "Last_Year",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913858791385660203",
+      "name": "Last_Year_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913858837793023318",
+      "name": "Last_Year_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913858881935104046",
+      "name": "Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858906246662312",
+      "name": "Leads_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858953873864868",
+      "name": "First_Proposal_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913858999014134429",
+      "name": "Jobs_Landed_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859046055942969",
+      "name": "Sales_Landed_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859087344699087",
+      "name": "Sales_Installed_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859136898084679",
+      "name": "Average_Sale_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859182975027149",
+      "name": "Slippage_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859228916361563",
+      "name": "Close_Rate_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859274402699343",
+      "name": "Gross_Margin_BP",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859319558359627",
+      "name": "Gross_Margin_BP_1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859363732900225",
+      "name": "Business_Plan",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913859408244794873",
+      "name": "Leads_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859451755120832",
+      "name": "First_Proposal_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859498132036544",
+      "name": "Jobs_Landed_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859548731714399",
+      "name": "Sales_Landed_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859591067498998",
+      "name": "Sales_Installed_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859638367250529",
+      "name": "Average_Sale_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859681879994430",
+      "name": "Slippage_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859726537099853",
+      "name": "Close_Rate_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859773765133861",
+      "name": "Gross_Margin_BP_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859821278003725",
+      "name": "Business_Plan_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913859868896583415",
+      "name": "Leads_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859913650732987",
+      "name": "First_Proposal_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913859958767194639",
+      "name": "Jobs_Landed_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860002847152258",
+      "name": "Sales_Landed_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860049533256370",
+      "name": "Sales_Installed_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860098963191216",
+      "name": "Average_Sale_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860141916878711",
+      "name": "Slippage_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860186240259948",
+      "name": "Close_Rate_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860229925201363",
+      "name": "Gross_Margin_BP_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860275766328166",
+      "name": "Business_Plan_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913860324405279693",
+      "name": "Gross_Margin",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860367551467738",
+      "name": "Gross_Margin_LY_1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860414483639889",
+      "name": "Gross_Margin_LY_Diff_1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860461786236441",
+      "name": "Gross_Margin_LY_Diff__1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860510354950808",
+      "name": "Royalty_5_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860550763310970",
+      "name": "Ad_Fund_3_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860601268481459",
+      "name": "Total_Royalty_Ad_Fund",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913860643150220152",
+      "name": "Count_Sched_App",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860690421090238",
+      "name": "Count_Exceptions",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860732347630789",
+      "name": "CC_Leads",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860779182726103",
+      "name": "CC_Appt",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860826236314522",
+      "name": "CC_Exception",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860868895964405",
+      "name": "CC_Customer_Appt",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860917548020032",
+      "name": "CC_Imported_Appt",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913860960944785171",
+      "name": "CC_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861007632320660",
+      "name": "Count_Projects",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861055132171695",
+      "name": "Pay_Per_App_Count",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861102697897913",
+      "name": "Cumulative_First_Appt",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861150123307510",
+      "name": "Cumulative_First_Proposal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861192288720934",
+      "name": "Cumulative_Gross_Margin",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861238164381398",
+      "name": "Cumulative_Jobs_Installed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861287639551534",
+      "name": "Cumulative_Jobs_Landed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861328265849989",
+      "name": "Cumulative_Sales_Installed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861375587207062",
+      "name": "Cumulative_Sales_Landed",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861417948388336",
+      "name": "Cumulative_Total_Appts",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913861465195577139",
+      "name": "Cumulative",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913861489523519411",
+      "name": "Sales_Canceled",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861534360843100",
+      "name": "Sales_Net_Canceled",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861584708420567",
+      "name": "Current_Graf",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861627125462891",
+      "name": "Business_Plan_Graf",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861674293594752",
+      "name": "Last_Year_Graf",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861722216182462",
+      "name": "Business_Plan_Diff_Graff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861771124814689",
+      "name": "Last_Year_Diff_Graf",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861822939558873",
+      "name": "per_Proposal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913861870876613489",
+      "name": "Current_User",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913861915969383468",
+      "name": "Current_UPN",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913861967351220356",
+      "name": "Count_Weeks",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862007793315563",
+      "name": "Mobile_Showroom",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862053690613254",
+      "name": "Proposals_Per_Mobile_Showroom_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862100313139347",
+      "name": "Range1_Prop_Per_Mobile_Show_Room_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862144563619063",
+      "name": "Range1_Revnue_Per_Prop",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862189590138967",
+      "name": "Range2_Revnue_Per_Prop",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862237652868733",
+      "name": "Range1_Gross_Margin",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862277409686697",
+      "name": "Range2_Gross_Margin",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862327188989371",
+      "name": "Range2_Prop_Per_Mobile_Show_Room_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862370088203443",
+      "name": "Cumulative_Current_Year",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862418021056040",
+      "name": "Total_Branch_Avg",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862464406693145",
+      "name": "Branch_Forecast_End_Of_Year",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862514964845353",
+      "name": "Cumulative_Prediction",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862558067793398",
+      "name": "Number_Of_DA_S_With_At_Least_One_First_Proposal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862608349518674",
+      "name": "First_Appt_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862654931255137",
+      "name": "First_Appt_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862710129609066",
+      "name": "Total_Appts_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862755011886324",
+      "name": "Jobs_Installed_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862797055031203",
+      "name": "First_Appt_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862846174468314",
+      "name": "Total_Appts_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862887876422353",
+      "name": "Jobs_Installed_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913862936874149823",
+      "name": "Jobs_Installed_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913862980241115175",
+      "name": "Total_Appts_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913863023488861631",
+      "name": "per_Proposals_LY",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863067846848940",
+      "name": "per_Proposals_LY_Diff_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863115058144278",
+      "name": "per_Proposals_LY_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863157486147844",
+      "name": "Proposals_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863204532111701",
+      "name": "Landed_s_per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863249878367440",
+      "name": "EstimatedLanded",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913863274509786101",
+      "name": "Range2_Landed_s_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913863316678856255",
+      "name": "Range1_Landed_s_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913863366901163153",
+      "name": "Annual_Projection",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863409533799550",
+      "name": "My_Commision_Per_Week",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863457412025047",
+      "name": "My_Commision_For_Period",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863496988553464",
+      "name": "My_Annual_Commision",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863545991634564",
+      "name": "Branch_S_Date",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "DateTime"
+    },
+    {
+      "id": "6913863589662093609",
+      "name": "SumValue",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863612031334114",
+      "name": "SumValueNoBlanks",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863636288020839",
+      "name": "TotalsMeasure",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913863658442982253",
+      "name": "Income",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863706496404617",
+      "name": "GrandTotal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863730910036663",
+      "name": "Cost_Per_Lead",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863774463509856",
+      "name": "Cost_Per_Proposal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863818374252981",
+      "name": "Landed_Per_1_Invested",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913863864161031069",
+      "name": "Marketing_Spend_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863910510062902",
+      "name": "Total_Marketing",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863953234804831",
+      "name": "Income-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913863999732631057",
+      "name": "GrandTotal-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864025050541936",
+      "name": "SumValue-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864047148182883",
+      "name": "SumValueNoBlanks-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864076068977244",
+      "name": "TotalsMeasure-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864094789254038",
+      "name": "Total_Marketing-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864136444938803",
+      "name": "Marketing_Spend-peer_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864183715339495",
+      "name": "Landed_Per_1_Invested-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864227951333246",
+      "name": "Cost_Per_Proposal-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864274008556331",
+      "name": "Cost_Per_Lead-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864320502989718",
+      "name": "User_Roles_Count",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864364868807832",
+      "name": "cntProj",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864391987673642",
+      "name": "People_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864434226691758",
+      "name": "Proposals_Per_Week_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864481461726678",
+      "name": "Community_Proposals_Per_Week_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864524010226588",
+      "name": "Digital_Proposals_Per_Week_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864570625956141",
+      "name": "People_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864615213463106",
+      "name": "per_Proposal_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864663588116571",
+      "name": "Close_Rate_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864705727167332",
+      "name": "Proposals_Per_Week_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864753190812274",
+      "name": "Connect_Proposals_Per_Week_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864797741316968",
+      "name": "Paid_Proposals_Per_Week_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864838593989839",
+      "name": "Produced_Gross_Margin_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913864885092084357",
+      "name": "Average_Sale_-_Goal",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913864929431499966",
+      "name": "Produced_Gross_Margin_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913864975773855783",
+      "name": "per_Proposal_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865017363270173",
+      "name": "People_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865065051091019",
+      "name": "Close_Rate_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865114870540273",
+      "name": "Average_Sale_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865161956358293",
+      "name": "Proposals_Per_Week_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865203962826772",
+      "name": "Connect_Proposals_Per_Week_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865245239280368",
+      "name": "Paid_Proposals_Per_Week_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865294686050910",
+      "name": "Produced_Gross_Margin_-_Diff",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865342163412293",
+      "name": "per_Proposal_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865382013344863",
+      "name": "People_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865431011920210",
+      "name": "Close_Rate_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865472941800772",
+      "name": "Average_Sale_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865517649401014",
+      "name": "Proposals_Per_Week_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865563000299876",
+      "name": "Connect_Proposals_Per_Week_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865612860481847",
+      "name": "Paid_Proposals_Per_Week_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865654830644153",
+      "name": "Produced_Gross_Margin_-_Color",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865708099109671",
+      "name": "Proposals_Per_Week_-_Peer_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865759514409328",
+      "name": "Digital_Proposals_Per_Week_-_Peer_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865807657954992",
+      "name": "Community_Proposals_Per_Week_-_Peer_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913865855697252648",
+      "name": "Produced_Gross_Margin_-_Peer_-_Score",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913865905597723134",
+      "name": "User_Roles_Count_-_Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913865949511644194",
+      "name": "DA_S_Date",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913865998320354048",
+      "name": "DA_E_Date",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913866044931923747",
+      "name": "SumValueRollUps",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866069319902218",
+      "name": "Income_RollUps",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866119110795550",
+      "name": "SumValueRollUps-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866140813022584",
+      "name": "Income_RollUps-Peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866188105236046",
+      "name": "MonthlyPlan",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913866213145573847",
+      "name": "Contribution_Margin",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866259147444180",
+      "name": "Monthly_Break-Even_Revenue",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913866307183015018",
+      "name": "Profit_Month",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866356768408660",
+      "name": "Profit_Month_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866401086647328",
+      "name": "Total_COGS_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866449993895545",
+      "name": "Total_Fixed_Expenses",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913866496504396072",
+      "name": "Total_Marketing_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866541729209612",
+      "name": "Total_Merchant_Financing_Fees_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866592142605711",
+      "name": "Total_Royalty_Brand_Fund_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866639125063466",
+      "name": "Variable_Expense_Total",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866683656903421",
+      "name": "Total_DA_Compensation_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866732714023031",
+      "name": "What_if_Revenue_Level",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "BigInt"
+    },
+    {
+      "id": "6913866785169715609",
+      "name": "Hiring_This_Quarter",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913866832614438665",
+      "name": "Hiring_Next_Quarter",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "String"
+    },
+    {
+      "id": "6913866873849508309",
+      "name": "Actual_Spend_Last_Month",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913866921623380056",
+      "name": "PPW_Last_8_Weeks",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913866968144246803",
+      "name": "Leads_LY_Diff_YTD",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867020886864676",
+      "name": "Sales_Installed_BP_YTD",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867068782851645",
+      "name": "Close_Rate_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867109007319419",
+      "name": "Slippage_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867156886519477",
+      "name": "per_Proposal_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867206883199140",
+      "name": "Gross_Margin_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867252217458940",
+      "name": "Sales_Landed_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867299030526820",
+      "name": "Sales_Installed_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867348609658827",
+      "name": "Total_Branch_Avg_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867395223993232",
+      "name": "Installed_Trend_OcOp",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867440048304109",
+      "name": "Installed_YOY_Growth_",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867490595477161",
+      "name": "MonthlyPlan-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867513970334247",
+      "name": "Total_Fixed_Expenses-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867562187860102",
+      "name": "Total_COGS_-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867603519071682",
+      "name": "Total_DA_Compensation_-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867656803995422",
+      "name": "Total_Marketing_-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867701448187458",
+      "name": "Total_Merchant_Financing_Fees_-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867751569053106",
+      "name": "Total_Royalty_Brand_Fund_-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867797772914492",
+      "name": "Variable_Expense_Total-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867847181711340",
+      "name": "Contribution_Margin-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Object"
+    },
+    {
+      "id": "6913867891886307486",
+      "name": "Monthly_Break-Even_Revenue-peer",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913867940341846959",
+      "name": "Gross_Margin_Produced",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    }
+  ],
+  "timeseriesProperties": [],
+  "untypedProperties": []
+}

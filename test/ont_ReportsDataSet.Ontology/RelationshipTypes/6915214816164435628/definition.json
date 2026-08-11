@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915214816164435628",
+  "name": "Projects_has_Design_Associate",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "64230354949815"
+  },
+  "target": {
+    "entityTypeId": "224499784700745"
+  }
+}

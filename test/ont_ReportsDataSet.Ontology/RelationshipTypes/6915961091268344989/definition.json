@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915961091268344989",
+  "name": "MRR_qvinci_hierarchy_RollUps_has_MRR_qvinci_hierarchy",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "158801693545016"
+  },
+  "target": {
+    "entityTypeId": "141894638550079"
+  }
+}

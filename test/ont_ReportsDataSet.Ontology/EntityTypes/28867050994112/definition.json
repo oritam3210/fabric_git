@@ -1,0 +1,71 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/entityType/1.0.0/schema.json",
+  "id": "28867050994112",
+  "namespace": "usertypes",
+  "baseEntityTypeId": null,
+  "name": "Branches_Summarized_BP_DA",
+  "entityIdParts": [],
+  "displayNamePropertyId": null,
+  "namespaceType": "Imported",
+  "visibility": "Visible",
+  "properties": [
+    {
+      "id": "6913876121952750648",
+      "name": "Current_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876166853106639",
+      "name": "Business_Plan_-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876217639033360",
+      "name": "Current_-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876258525919859",
+      "name": "Business_Plan_Diff_-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876306407881484",
+      "name": "Business_Plan_Diff_-_Summarized_BP_-_DA_1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876350604952821",
+      "name": "Last_Year_-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876392137963171",
+      "name": "Last_Year_Diff-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913876440688626757",
+      "name": "Last_Year_Diff_-_Summarized_BP_-_DA",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    }
+  ],
+  "timeseriesProperties": [],
+  "untypedProperties": []
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915598487347256171",
+  "name": "Branch_Group_Predict_has_Branches_Predict",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "9923155179288"
+  },
+  "target": {
+    "entityTypeId": "273151634006111"
+  }
+}

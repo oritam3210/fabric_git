@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/entityType/1.0.0/schema.json",
+  "id": "142860848213050",
+  "namespace": "usertypes",
+  "baseEntityTypeId": null,
+  "name": "User_Schedule_Appointment",
+  "entityIdParts": [],
+  "displayNamePropertyId": null,
+  "namespaceType": "Imported",
+  "visibility": "Visible",
+  "properties": [],
+  "timeseriesProperties": [],
+  "untypedProperties": []
+}

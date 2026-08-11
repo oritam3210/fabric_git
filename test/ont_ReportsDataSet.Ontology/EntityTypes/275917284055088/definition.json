@@ -1,0 +1,64 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/entityType/1.0.0/schema.json",
+  "id": "275917284055088",
+  "namespace": "usertypes",
+  "baseEntityTypeId": null,
+  "name": "Branches_Summarized_BP_Branches",
+  "entityIdParts": [],
+  "displayNamePropertyId": null,
+  "namespaceType": "Imported",
+  "visibility": "Visible",
+  "properties": [
+    {
+      "id": "6913875557293606421",
+      "name": "Current_-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875605578493346",
+      "name": "Business_Plan_-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875647962340909",
+      "name": "Business_Plan_Diff_-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875695898818750",
+      "name": "Business_Plan_Diff_-_Summarized_BP_-_Branches_1",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875740072034870",
+      "name": "Last_Year_-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875787042857194",
+      "name": "Last_Year_Diff-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    },
+    {
+      "id": "6913875830077915425",
+      "name": "Last_Year_Diff_-_Summarized_BP_-_Branches",
+      "redefines": null,
+      "baseTypeNamespaceType": null,
+      "valueType": "Double"
+    }
+  ],
+  "timeseriesProperties": [],
+  "untypedProperties": []
+}

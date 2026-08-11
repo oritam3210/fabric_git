@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915838852395396554",
+  "name": "Branches_Summarized_BP_DA_has_Branches_DA_hrr",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "28867050994112"
+  },
+  "target": {
+    "entityTypeId": "11382328367771"
+  }
+}

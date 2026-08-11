@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/ontology/relationshipType/1.0.0/schema.json",
+  "namespace": "usertypes",
+  "id": "6915944273386079261",
+  "name": "MRR_qvinci_Monthly_Peer_has_DatesSummarize",
+  "namespaceType": "Imported",
+  "source": {
+    "entityTypeId": "222453842822721"
+  },
+  "target": {
+    "entityTypeId": "100565726700415"
+  }
+}
