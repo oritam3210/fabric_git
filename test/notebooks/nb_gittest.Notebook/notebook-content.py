@@ -25,7 +25,7 @@
 flights_df = spark.read.format("csv") \
     .option("header", "true") \
     .option("inferSchema", "true") \
-    .load("Files/source-files/flights.csv")
+    .load("Files/source-files/hotels.csv")
 
 display(flights_df)
 
