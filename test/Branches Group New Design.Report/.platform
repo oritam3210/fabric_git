@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Branches Group New Design"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "eed4a272-8ac9-8be7-44c1-14f2150d80ef"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Peer Group Reports"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4743288d-955c-a4c7-4fce-dd7aa4d82344"
+  }
+}
