@@ -1,0 +1,29 @@
+{
+  "version": "2.6.0",
+  "author": {
+    "name": "Dimensional Strategies Inc",
+    "email": "support@dstrat.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/Tachometer5514746364715412990001.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "Tachometer5514746364715412990001",
+    "name": "Tachometer 5 ranges",
+    "displayName": "Tachometer 5 ranges",
+    "version": "2.6.0",
+    "description": "Tachometer is a flexible gauge that allows you to quickly convey detailed information in a way that can be intuitively understood. Many customizable features are included to configure the is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.",
+    "supportUrl": "https://support.dstrat.com",
+    "gitHubUrl": "https://github.com/DimensionalStrategiesInc/Tachometer5Ranges",
+    "visualClassName": "Tachometer"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}
